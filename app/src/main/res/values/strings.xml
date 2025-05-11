@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">jetpack-compose-assignment-1</string>
+    <string name="title">Welcome to
+            Course RoadMap</string>
+    <string name="subtitle">"This Application is dedicated to clarify the road-map of courses given at Addis Ababa institute of Technology"</string>
+</resources>
